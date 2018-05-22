@@ -1,4 +1,4 @@
-# Sampple Nightwatch.js
+# Sample Nightwatch.js
 
 http://nightwatchjs.org/
 
