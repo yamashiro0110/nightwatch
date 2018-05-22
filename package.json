@@ -1,0 +1,26 @@
+{
+  "name": "nightwatch",
+  "version": "1.0.0",
+  "description": "sample nightwatch.js",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "dependencies": {
+    "nightwatch": "^0.9.21",
+    "chromedriver": "^2.38.3",
+    "geckodriver": "^1.11.0",
+    "selenium-server-standalone-jar": "^3.12.0"
+  },
+  "devDependencies": {
+    "nightwatch": "^0.9.21",
+    "chromedriver": "^2.38.3",
+    "geckodriver": "^1.11.0",
+    "selenium-server-standalone-jar": "^3.12.0"
+  },
+  "scripts": {
+    "test": "node_modules/nightwatch/bin/nightwatch"
+  },
+  "author": "yamashiro0110",
+  "license": "ISC"
+}
